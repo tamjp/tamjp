@@ -1,4 +1,6 @@
-# Hi, I'm Farzaneh 👋:four_leaf_clover:
+# Hi, I'm Farzaneh 
+
+
 
 **Cheminformatics Data Scientist | ML/AI for Life Science | Clinical AI**\
 📍 Gothenburg, Sweden
